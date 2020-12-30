@@ -16,4 +16,4 @@
 - city already exists in your favourite city list 
 Service answer on GET/POST/PUT/PATCH queries 
 ## Output Images
-[Images](Images/)
+[Images](images/)
